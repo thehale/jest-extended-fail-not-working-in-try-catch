@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-extended": "^4.0.1"
+  },
+  "jest" : {
+    "setupFilesAfterEnv": ["jest-extended/all"]
+  }
+}
